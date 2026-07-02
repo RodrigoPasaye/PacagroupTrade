@@ -1,0 +1,17 @@
+C:\Users\rpasaye\source\repos\Pacagroup.Trade\src\Pacagroup.Trade.Application.UseCases\bin\Debug\net10.0\Pacagroup.Trade.Application.UseCases.deps.json
+C:\Users\rpasaye\source\repos\Pacagroup.Trade\src\Pacagroup.Trade.Application.UseCases\bin\Debug\net10.0\Pacagroup.Trade.Application.UseCases.dll
+C:\Users\rpasaye\source\repos\Pacagroup.Trade\src\Pacagroup.Trade.Application.UseCases\bin\Debug\net10.0\Pacagroup.Trade.Application.UseCases.pdb
+C:\Users\rpasaye\source\repos\Pacagroup.Trade\src\Pacagroup.Trade.Application.UseCases\obj\Debug\net10.0\Pacagroup.Trade.Application.UseCases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rpasaye\source\repos\Pacagroup.Trade\src\Pacagroup.Trade.Application.UseCases\obj\Debug\net10.0\Pacagroup.Trade.Application.UseCases.AssemblyInfoInputs.cache
+C:\Users\rpasaye\source\repos\Pacagroup.Trade\src\Pacagroup.Trade.Application.UseCases\obj\Debug\net10.0\Pacagroup.Trade.Application.UseCases.AssemblyInfo.cs
+C:\Users\rpasaye\source\repos\Pacagroup.Trade\src\Pacagroup.Trade.Application.UseCases\obj\Debug\net10.0\Pacagroup.Trade.Application.UseCases.csproj.CoreCompileInputs.cache
+C:\Users\rpasaye\source\repos\Pacagroup.Trade\src\Pacagroup.Trade.Application.UseCases\obj\Debug\net10.0\Pacagroup.Trade.Application.UseCases.dll
+C:\Users\rpasaye\source\repos\Pacagroup.Trade\src\Pacagroup.Trade.Application.UseCases\obj\Debug\net10.0\refint\Pacagroup.Trade.Application.UseCases.dll
+C:\Users\rpasaye\source\repos\Pacagroup.Trade\src\Pacagroup.Trade.Application.UseCases\obj\Debug\net10.0\Pacagroup.Trade.Application.UseCases.pdb
+C:\Users\rpasaye\source\repos\Pacagroup.Trade\src\Pacagroup.Trade.Application.UseCases\obj\Debug\net10.0\ref\Pacagroup.Trade.Application.UseCases.dll
+C:\Users\rpasaye\source\repos\Pacagroup.Trade\src\Pacagroup.Trade.Application.UseCases\bin\Debug\net10.0\Pacagroup.Trade.Application.Interfaces.dll
+C:\Users\rpasaye\source\repos\Pacagroup.Trade\src\Pacagroup.Trade.Application.UseCases\bin\Debug\net10.0\Pacagroup.Trade.Domain.dll
+C:\Users\rpasaye\source\repos\Pacagroup.Trade\src\Pacagroup.Trade.Application.UseCases\bin\Debug\net10.0\Pacagroup.Trade.Application.Interfaces.pdb
+C:\Users\rpasaye\source\repos\Pacagroup.Trade\src\Pacagroup.Trade.Application.UseCases\bin\Debug\net10.0\Pacagroup.Trade.Domain.pdb
+C:\Users\rpasaye\source\repos\Pacagroup.Trade\src\Pacagroup.Trade.Application.UseCases\obj\Debug\net10.0\Pacagroup.Trade.Application.UseCases.csproj.AssemblyReference.cache
+C:\Users\rpasaye\source\repos\Pacagroup.Trade\src\Pacagroup.Trade.Application.UseCases\obj\Debug\net10.0\Pacagrou.2C429F5D.Up2Date

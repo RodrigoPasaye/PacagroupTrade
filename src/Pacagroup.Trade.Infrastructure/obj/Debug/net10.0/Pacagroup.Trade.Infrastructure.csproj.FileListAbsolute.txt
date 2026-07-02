@@ -1,0 +1,11 @@
+C:\Users\rpasaye\source\repos\Pacagroup.Trade\src\Pacagroup.Trade.Infrastructure\bin\Debug\net10.0\Pacagroup.Trade.Infrastructure.deps.json
+C:\Users\rpasaye\source\repos\Pacagroup.Trade\src\Pacagroup.Trade.Infrastructure\bin\Debug\net10.0\Pacagroup.Trade.Infrastructure.dll
+C:\Users\rpasaye\source\repos\Pacagroup.Trade\src\Pacagroup.Trade.Infrastructure\bin\Debug\net10.0\Pacagroup.Trade.Infrastructure.pdb
+C:\Users\rpasaye\source\repos\Pacagroup.Trade\src\Pacagroup.Trade.Infrastructure\obj\Debug\net10.0\Pacagroup.Trade.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rpasaye\source\repos\Pacagroup.Trade\src\Pacagroup.Trade.Infrastructure\obj\Debug\net10.0\Pacagroup.Trade.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\rpasaye\source\repos\Pacagroup.Trade\src\Pacagroup.Trade.Infrastructure\obj\Debug\net10.0\Pacagroup.Trade.Infrastructure.AssemblyInfo.cs
+C:\Users\rpasaye\source\repos\Pacagroup.Trade\src\Pacagroup.Trade.Infrastructure\obj\Debug\net10.0\Pacagroup.Trade.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\rpasaye\source\repos\Pacagroup.Trade\src\Pacagroup.Trade.Infrastructure\obj\Debug\net10.0\Pacagroup.Trade.Infrastructure.dll
+C:\Users\rpasaye\source\repos\Pacagroup.Trade\src\Pacagroup.Trade.Infrastructure\obj\Debug\net10.0\refint\Pacagroup.Trade.Infrastructure.dll
+C:\Users\rpasaye\source\repos\Pacagroup.Trade\src\Pacagroup.Trade.Infrastructure\obj\Debug\net10.0\Pacagroup.Trade.Infrastructure.pdb
+C:\Users\rpasaye\source\repos\Pacagroup.Trade\src\Pacagroup.Trade.Infrastructure\obj\Debug\net10.0\ref\Pacagroup.Trade.Infrastructure.dll

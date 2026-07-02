@@ -1,0 +1,16 @@
+<Solution>
+  <Folder Name="/Application/">
+    <Project Path="src/Pacagroup.Trade.Application.Interfaces/Pacagroup.Trade.Application.Interfaces.csproj" Id="2bcc931e-7771-4877-9950-920122723c6b" />
+    <Project Path="src/Pacagroup.Trade.Application.UseCases/Pacagroup.Trade.Application.UseCases.csproj" Id="83a76426-fa74-4367-af66-e35c8374e066" />
+  </Folder>
+  <Folder Name="/Domain/">
+    <Project Path="src/Pacagroup.Trade.Domain/Pacagroup.Trade.Domain.csproj" Id="8b815e46-d8e6-4de5-85e8-f9360039c6dc" />
+  </Folder>
+  <Folder Name="/Infrastructure/">
+    <Project Path="src/Pacagroup.Trade.Infrastructure/Pacagroup.Trade.Infrastructure.csproj" Id="108221e0-6eff-44b9-ad85-17820d6510fd" />
+    <Project Path="src/Pacagroup.Trade.Persistence/Pacagroup.Trade.Persistence.csproj" Id="e08dd7b7-0dbc-427c-89b4-b83691b8ee3b" />
+  </Folder>
+  <Folder Name="/Presentation/">
+    <Project Path="src/Pacagroup.Trade.Services.gRPC/Pacagroup.Trade.Services.gRPC.csproj" Id="04806c6f-6628-4e9c-9944-c278f35ab5a8" />
+  </Folder>
+</Solution>

@@ -1,0 +1,98 @@
+syntax = "proto3";
+import "google/protobuf/timestamp.proto";
+
+option csharp_namespace = "Pacagroup.Trade.Services.gRPC.Protos";
+
+// The Order service definition.
+service Order {
+  // Sends a Order
+  rpc CreateOrder (CreateOrderRequest) returns (CreateOrderResponse);
+  rpc UpdateOrder (UpdateOrderRequest) returns (UpdateOrderResponse);
+  rpc CancelOrder (CancelOrderRequest) returns (CancelOrderResponse);
+  rpc GetOrder (GetOrderRequest) returns (GetOrderResponse);
+  rpc GetAllOrder (GetAllOrderRequest) returns (GetAllOrderResponse);
+}
+
+// The request message containing the Order.
+message CreateOrderRequest {
+  int32 Id = 1;
+  string Symbol = 2;
+  OrderSide Side = 3;
+  google.protobuf.Timestamp TransactTime = 4;
+  int32 Quanty = 5;
+  OrderType Type = 6;
+  double Price = 7;
+  string Currency = 8;
+  string Text = 9;
+}
+
+// The response message containing the orders.
+message CreateOrderResponse {
+  ServerResponse ServerResponse = 1;
+  OrderResponse Data = 2;
+}
+
+message UpdateOrderRequest {
+  int32 Id = 1;
+  int32 Quanty = 2;
+  OrderType Type = 3;
+  double Price = 4;
+  string Text = 5;
+}
+
+message UpdateOrderResponse {
+  ServerResponse ServerResponse = 1;
+  OrderResponse Data = 2;
+}
+
+message CancelOrderRequest {
+  int32 Id = 1;
+}
+
+message CancelOrderResponse {
+  ServerResponse ServerResponse = 1;
+}
+
+message GetOrderRequest {
+  int32 Id = 1;
+}
+
+message GetOrderResponse {
+  ServerResponse ServerResponse = 1;
+  OrderResponse Data = 2;
+}
+
+message GetAllOrderRequest { }
+
+message GetAllOrderResponse {
+  ServerResponse ServerResponse = 1;
+  repeated OrderResponse Data = 2;
+}
+
+message ServerResponse {
+  bool IsSuccess = 1;
+  string Message = 2;
+  string Errors = 3;
+}
+
+message OrderResponse {
+  int32 Id = 1;
+  string Symbol = 2;
+  OrderSide Side = 3;
+  google.protobuf.Timestamp TransactTime = 4;
+  int32 Quanty = 5;
+  OrderType Type = 6;
+  double Price = 7;
+  string Currency = 8;
+  string Text = 9;
+}
+
+enum OrderSide {
+  BUY = 0;
+  SELL = 1;
+}
+
+enum OrderType {
+  LIMIT = 0;
+  MARKET = 1;
+}
